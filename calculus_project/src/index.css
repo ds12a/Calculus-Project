@@ -19,6 +19,9 @@
     p {
       @apply leading-loose;
     }
+    body {
+      @apply bg-sky-500;
+    }
   }
 @tailwind components;
 @tailwind utilities;
